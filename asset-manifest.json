@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-react-deploy-app/static/css/main.81058970.css",
+    "main.js": "/my-react-deploy-app/static/js/main.fd3cc7c8.js",
+    "static/media/нестана.jpg": "/my-react-deploy-app/static/media/нестана.b0fd0073554a04548658.jpg",
+    "static/media/саида.jpg": "/my-react-deploy-app/static/media/саида.fa3c7d3d0a34920c45c7.jpg",
+    "static/media/нурс.jpg": "/my-react-deploy-app/static/media/нурс.d19ff414b68cc8aa5e3d.jpg",
+    "static/media/арген.jpg": "/my-react-deploy-app/static/media/арген.ed6a72d048d186a09d9d.jpg",
+    "static/media/вова.jpg": "/my-react-deploy-app/static/media/вова.e894b11526717a671951.jpg",
+    "static/media/нурбо.jpg": "/my-react-deploy-app/static/media/нурбо.087fb8a8230506091a53.jpg",
+    "static/media/эрбол.jpg": "/my-react-deploy-app/static/media/эрбол.4b0d67e22537653e7ee7.jpg",
+    "index.html": "/my-react-deploy-app/index.html",
+    "main.81058970.css.map": "/my-react-deploy-app/static/css/main.81058970.css.map",
+    "main.fd3cc7c8.js.map": "/my-react-deploy-app/static/js/main.fd3cc7c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81058970.css",
+    "static/js/main.fd3cc7c8.js"
+  ]
+}
